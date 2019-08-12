@@ -6,6 +6,7 @@ Auto Blood by Autoit
 + User
 + Pass
 + Số core đào
+
 --- Đặt file config chung đường dẫn với file autoBloodConfig Chạy file autoBloodConfig với quyền Admin
 
 --- autoBloodNoConfig sửa user|pass|số core đào trực tiếp trong file au3
